@@ -15,7 +15,7 @@ const MyComponent = () => {
           <div className="child"
               style={
               {
-                borderRadius: "110px"
+                borderRadius: "10px"
               }
           }
           >Anh Ben say hi</div>
